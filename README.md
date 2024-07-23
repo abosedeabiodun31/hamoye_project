@@ -1,1 +1,1 @@
-### This reprository consist of all hamoye internship project. 
+### This repository consist of all hamoye internship project. 
